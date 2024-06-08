@@ -1,0 +1,9 @@
+MUBEEN,Male,35202,B+,03728229300,19,ECG,Positive,VISIT DOCTOR
+munaeem,Male,1234,A+,0301,19,MRI,Positive,consult doctor
+Moeez,Male,12345,AB+,4321,19,CRP Test,Negative,Please consult the Doctor
+ALI TAQI,Male,345,B+,034567890989,67,MRI,Positive,BEST
+MUBEEN,Male,35203,B+,03728929,12,ECG,Positive,MES
+Muhammad Danish,Male,333,A+,No need,18,null,Negative,
+MUBEEN,Male,35204,B+,0382373930,12,null,Negative,
+az1,Male,4210117338259,B+,03114168996,18,Blood Test,Positive,xyz
+abdullah123,Male,2211,AB-,08765678900,78,Blood Test,Positive,null
